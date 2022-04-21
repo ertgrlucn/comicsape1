@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "OwnableDelegateProxy",
+  "sourceName": "contracts/ComicsApeSocialClub.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220fbb66c6b7ff138ae051bfc5ac15e15467f446a2fcc25e543accf7ea3299e9dfa64736f6c63430008090033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220fbb66c6b7ff138ae051bfc5ac15e15467f446a2fcc25e543accf7ea3299e9dfa64736f6c63430008090033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

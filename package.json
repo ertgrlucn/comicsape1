@@ -1,0 +1,43 @@
+{
+  "name": "comicsapesocialclub-nft-minting-dapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.5",
+    "@ethersproject/keccak256": "^5.6.0",
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "@openzeppelin/contracts": "^4.5.0",
+    "@web3-onboard/core": "^2.0.11",
+    "@web3-onboard/injected-wallets": "^2.0.2",
+    "bnc-onboard": "^1.38.1",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.0",
+    "embla-carousel-autoplay": "^6.2.0",
+    "embla-carousel-react": "^6.2.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.4",
+    "hardhat": "^2.8.4",
+    "javascript-color-gradient": "^2.3.4",
+    "keccak256": "^1.0.6",
+    "markleft": "^0.3.0",
+    "merkletreejs": "^0.2.0",
+    "next": "^12.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
+    "autoprefixer": "^10.4.2",
+    "eslint": "8.10.0",
+    "eslint-config-next": "12.1.0",
+    "postcss": "^8.4.8",
+    "tailwindcss": "^3.0.23"
+  }
+}
